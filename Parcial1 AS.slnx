@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CapaAccesoDatos/CapaAccesoDatos.csproj" />
+  <Project Path="CapaDatosPrueba/CapaDatosPrueba.csproj" Id="620db188-f6ec-4551-97eb-929d6b8ae2aa" />
+  <Project Path="CapaNegocio/CapaNegocio.csproj" />
+  <Project Path="CapaPresentacion/CapaPresentacion.csproj" />
+  <Project Path="PruebasUnitarias/PruebasUnitarias.csproj" Id="6a7267b0-fa43-4352-9ba2-e6d7a6a89158" />
+</Solution>

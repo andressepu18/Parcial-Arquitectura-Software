@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\Ejemplo1ParqueaderoCapasCompleto\\Ejemplo1ParqueaderoCapas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F53676CE-4291-FCCA-14C5-F1D6464CC0A7}|CapaAccesoDatos\\CapaAccesoDatos.csproj|c:\\users\\pc\\downloads\\ejemplo1parqueaderocapascompleto\\ejemplo1parqueaderocapas\\capaaccesodatos\\conexionsqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53676CE-4291-FCCA-14C5-F1D6464CC0A7}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\conexionsqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7267B0-FA43-4352-9BA2-E6D7A6A89158}|PruebasUnitarias\\PruebasUnitarias.csproj|c:\\users\\pc\\downloads\\ejemplo1parqueaderocapascompleto\\ejemplo1parqueaderocapas\\pruebasunitarias\\logicatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7267B0-FA43-4352-9BA2-E6D7A6A89158}|PruebasUnitarias\\PruebasUnitarias.csproj|solutionrelative:pruebasunitarias\\logicatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\pc\\downloads\\ejemplo1parqueaderocapascompleto\\ejemplo1parqueaderocapas\\capapresentacion\\capapresentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\capapresentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CapaPresentacion",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Ejemplo1ParqueaderoCapasCompleto\\Ejemplo1ParqueaderoCapas\\CapaPresentacion\\CapaPresentacion.csproj",
+              "RelativeDocumentMoniker": "CapaPresentacion\\CapaPresentacion.csproj",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Ejemplo1ParqueaderoCapasCompleto\\Ejemplo1ParqueaderoCapas\\CapaPresentacion\\CapaPresentacion.csproj",
+              "RelativeToolTip": "CapaPresentacion\\CapaPresentacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T21:47:43.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicaTest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Ejemplo1ParqueaderoCapasCompleto\\Ejemplo1ParqueaderoCapas\\PruebasUnitarias\\LogicaTest.cs",
+              "RelativeDocumentMoniker": "PruebasUnitarias\\LogicaTest.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Ejemplo1ParqueaderoCapasCompleto\\Ejemplo1ParqueaderoCapas\\PruebasUnitarias\\LogicaTest.cs",
+              "RelativeToolTip": "PruebasUnitarias\\LogicaTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T21:45:33.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionSQLServer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Ejemplo1ParqueaderoCapasCompleto\\Ejemplo1ParqueaderoCapas\\CapaAccesoDatos\\ConexionSQLServer.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\ConexionSQLServer.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Ejemplo1ParqueaderoCapasCompleto\\Ejemplo1ParqueaderoCapas\\CapaAccesoDatos\\ConexionSQLServer.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\ConexionSQLServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T21:44:24.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
